@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Academic</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography Dechao Tian is a Postdoctoral Research Associate of computational biology at Carnegie Mellon University. Dechao currently explores potential connections between the 3D chromosomal connectome and transcriptional regulation, aiming to discover interesting principal connections and develop algorithms. For example, he is interested in using latent Graphical models to infer direct transcriptional regulations.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manuscripts</title>
+      <link>/home/manuscripts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/manuscripts/</guid>
+      <description>Tian D*, Zhang R*, Zhang Y, Ma J. MOCHI enables discovery of heterogeneous interactome modules in cell nucleu.
+Tian D*, Zhu X*, Ma J. Diffdomains: model-based identification of significantly reshaped chromatin domains from Hi-C contact matrices between normal and disease conditions.
+Tian D, Ma J. Exploiting the interplay between chromatin interactome and transcriptional regulatory network.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description>Tian D, Gu Q, Ma J. Identifying gene regulatory network rewiring using latent differential graphical models. Nucleic acids research. 2016 Jul 4;44(17):e140-.
+Zhang, S*, Tian, D*, Tran, NH, Choi, KP, &amp;amp; Zhang, L (2014). Profiling the transcription factor regulatory networks of human cell types. Nucleic acids research, 42(20), 12380-12387.
+Tian D, Choi KP. Sharp bounds and normalization of wiener-type indices. PLOS ONE. 2013 Nov 8;8(11):e78448.
+This paper studies xxx</description>
+    </item>
+    
+    <item>
+      <title>Collaboration papers</title>
+      <link>/home/collaborations/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/collaborations/</guid>
+      <description>Tian D, Gu Q, Ma J. Identifying gene regulatory network rewiring using latent differential graphical models. Nucleic acids research. 2016 Jul 4;44(17):e140-.
+Zhang, S., Tian, D., Tran, N. H., Choi, K. P., &amp;amp; Zhang, L. (2014). Profiling the transcription factor regulatory networks of human cell types. Nucleic acids research, 42(20), 12380-12387.
+Tian D, Choi KP. Sharp bounds and normalization of wiener-type indices. PLOS ONE. 2013 Nov 8;8(11):e78448.
+This paper studies xxx</description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
