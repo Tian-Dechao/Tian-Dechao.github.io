@@ -27,7 +27,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Dechao Tian is an ORISE Fellow at the Center for Disease Control and Prevention. He currently develops statistical models and machine learning algorithms using linked genomic data and epidemiological data to identify anomaly clusters to triage outbreak investigation. He was a Postdoc at Carnegie Mellon University. He developed statistical models and machine learning algorithms to explore the potential connections between 3D chromatin organization and transcriptional regulation networks. His long-term goals include (1) develop novel algorithms to integrate multi-resolution data collected in multiple modalities in the context of genome biology; (2) apply proper statistical models and machine learning algorithms to solve meaningful questions encountered in the real world.</description>
+      <description>Biography Dechao Tian is a Mathematical Statistician at the Center for Disease Control and Prevention. He currently develops statistical models and machine learning algorithms using linked genomic data and epidemiological data to identify anomaly clusters to triage outbreak investigation. He was a Postdoc at Carnegie Mellon University. He developed statistical models and machine learning algorithms to explore the potential connections between 3D chromatin organization and transcriptional regulation networks. His long-term goals include (1) develop novel algorithms to integrate multi-resolution data collected in multiple modalities in the context of genome biology; (2) apply proper statistical models and machine learning algorithms to solve meaningful questions encountered in the real world.</description>
     </item>
     
     <item>
@@ -63,8 +63,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/manuscripts/</guid>
-      <description>Tian D*, Zhang R*, Zhang Y, Ma J. MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome. bioRxiv, resubmitted to Genome Research
-Tian D*, Zhu X*, Ma J. Diffdomains: Discovery of statistically significantly reshaped chromatin domains using random matrix theory
+      <description>Tian D*, Zhu X*, Ma J. Diffdomains: Discovery of statistically significantly reshaped chromatin domains using random matrix theory
 Tian D, Ma J. Exploiting the interplay between chromatin interactome and transcriptional regulatory network.
 * co-first authors</description>
     </item>
@@ -75,10 +74,9 @@ Tian D, Ma J. Exploiting the interplay between chromatin interactome and transcr
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/publications/</guid>
-      <description>Tian D, Gu Q, Ma J. Identifying gene regulatory network rewiring using latent differential graphical models. Nucleic Acids Research. 2016 Jul 4;44(17):e140-. Link
-Zhang, S*, Tian, D*, Tran, NH, Choi, KP, &amp;amp; Zhang, L (2014). Profiling the transcription factor regulatory networks of human cell types. Nucleic Acids Research, 42(20), 12380-12387. Link
-Tian D, Choi KP. Sharp bounds and normalization of wiener-type indices. PLOS ONE. 2013 Nov 8;8(11):e78448. Link
-* co-first authors</description>
+      <description>Tian D*, Zhang R*, Zhang Y, Ma J. MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome. bioRxiv, accepted by Genome Research
+Tian D, Gu Q, Ma J. Identifying gene regulatory network rewiring using latent differential graphical models. Nucleic Acids Research. 2016 Jul 4;44(17):e140-. Link
+Zhang, S*, Tian, D*, Tran, NH, Choi, KP, &amp;amp; Zhang, L (2014). Profiling the transcription factor regulatory networks of human cell types. Nucleic Acids Research, 42(20), 12380-12387.</description>
     </item>
     
     <item>
