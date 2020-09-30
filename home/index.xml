@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/home/about/</guid>
       <description>Biography Dechao Tian is a Mathematical Statistician at the Center for Disease Control and Prevention. He currently develops statistical models and machine learning algorithms using linked genomic data and epidemiological data to identify anomaly clusters to triage outbreak investigation. He was a Postdoctorial Fellow mentored by Dr. Jian Ma at the Computational Biology Department at Carnegie Mellon University. He developed statistical models and machine learning algorithms to explore the interplay between 3D genome structures and transcriptional regulation.</description>
@@ -33,7 +33,7 @@
     <item>
       <title>Skills</title>
       <link>/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
       
       <guid>/home/skills/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Selected Publications</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Manuscripts</title>
       <link>/home/manuscripts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/home/manuscripts/</guid>
       <description>Tian D, Zhu X, Ma J. Diffdomain enables detection of reshaped chromatin domains using random matrix theory.
@@ -70,7 +70,7 @@ Tian D, Ma J. Exploiting the interplay between chromatin interactome and transcr
     <item>
       <title>Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/home/publications/</guid>
       <description>* represents co-first authors.
@@ -82,7 +82,7 @@ Zhang, S*, Tian, D*, Tran, NH, Choi, KP, &amp;amp; Zhang, L. Profiling the trans
     <item>
       <title>Collaboration papers</title>
       <link>/home/collaborations/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/home/collaborations/</guid>
       <description>Chen, L., Cheng, C.Y., Choi, H., Ikram, M.K., Sabanayagam, C., Tan, G.S., Tian, D., Zhang, L., Venkatesan, G., Tai, E.S. and Wang, J.J.. Plasma metabonomic profiling of diabetic retinopathy. Diabetes. 2016 p.db150661. Link
@@ -92,7 +92,7 @@ Koh V, Cheung CY, Li X, Tian D, Wang JJ, Mitchell P, Cheng CY, Wong TY. Retinal 
     <item>
       <title>Selected Talks</title>
       <link>/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/home/talks_selected/</guid>
       <description></description>
@@ -101,7 +101,7 @@ Koh V, Cheung CY, Li X, Tian D, Wang JJ, Mitchell P, Cheng CY, Wong TY. Retinal 
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/home/talks/</guid>
       <description></description>
@@ -110,7 +110,7 @@ Koh V, Cheung CY, Li X, Tian D, Wang JJ, Mitchell P, Cheng CY, Wong TY. Retinal 
     <item>
       <title>Recent Posts</title>
       <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/home/posts/</guid>
       <description></description>
@@ -119,7 +119,7 @@ Koh V, Cheung CY, Li X, Tian D, Wang JJ, Mitchell P, Cheng CY, Wong TY. Retinal 
     <item>
       <title>Projects</title>
       <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/home/projects/</guid>
       <description></description>
@@ -128,7 +128,7 @@ Koh V, Cheung CY, Li X, Tian D, Wang JJ, Mitchell P, Cheng CY, Wong TY. Retinal 
     <item>
       <title>Custom Section</title>
       <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
@@ -138,7 +138,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
     <item>
       <title>Tags</title>
       <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
       
       <guid>/home/tags/</guid>
       <description></description>
@@ -147,7 +147,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
     <item>
       <title>Search</title>
       <link>/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0800</pubDate>
       
       <guid>/home/search/</guid>
       <description></description>
@@ -156,7 +156,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
     <item>
       <title>Contact</title>
       <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/home/contact/</guid>
       <description></description>
